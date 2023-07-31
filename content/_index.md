@@ -128,6 +128,7 @@ sections:
           name: DM Me
           link: https://twitter.com/guidoromero98
         - icon: linkedin
+          name: Also on LinkedIn
           icon_pack: fab
           link: https://www.linkedin.com/in/guido-anthony-romero/
       # Automatically link email and phone or display as text?
