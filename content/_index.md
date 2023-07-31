@@ -21,7 +21,7 @@ sections:
         - name: Statistics
           icon: chart-line
           icon_pack: fas
-      - name: Python
+        - name: Python
           icon: python
           icon_pack: fab
         - name: R
