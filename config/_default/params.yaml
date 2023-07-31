@@ -63,8 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    theme_light: emory
+    theme_dark: emory
   math:
     enable: false
   privacy_pack:
