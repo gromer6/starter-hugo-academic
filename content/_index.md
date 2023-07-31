@@ -15,18 +15,19 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Economics
+          icon: coins
+          icon_pack: fas
         - name: Statistics
-          description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+      - name: Python
+          icon: python
+          icon_pack: fab
+        - name: R
+          icon: r-project
+          icon_pack: fab
+        
   - block: experience
     content:
       title: Experience
