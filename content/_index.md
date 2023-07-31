@@ -103,7 +103,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please leave me a message and I will reply as soon as possible.
+        Please send me an email and I will reply as soon as possible.
       # Contact (add or remove contact options as necessary)
       email: guido.romero@emory.edu
       address:
@@ -125,14 +125,4 @@ sections:
           link: https://www.linkedin.com/in/guido-anthony-romero/
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
 ---
