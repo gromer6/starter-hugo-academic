@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Emory"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#0033a0"
+
+# Menu
+menu_primary = "#012169"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgba( 255, 255, 255,1)"
+home_section_even = "rgba(217, 217, 214,0.5)"
