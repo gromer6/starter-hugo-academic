@@ -72,12 +72,12 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: [https://www.coursera.org](https://www.datacamp.com/statement-of-accomplishment/course/7001978e09a69a08799eaf16439a51c57d11eb3f)
+        - certificate_url: [https://www.datacamp.com](https://www.datacamp.com/statement-of-accomplishment/course/7001978e09a69a08799eaf16439a51c57d11eb3f)
           date_end: ''
           date_start: '2023-02-08'
           description: ''
           organization: DataCamp
-          organization_url: [https://www.coursera.org](https://www.datacamp.com)
+          organization_url: https://www.datacamp.com
           title: Intermediate Regression with statsmodels in Python
           url: ''
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/5de3ca8d240a4ec901010cb66be6d4253a5d6603
