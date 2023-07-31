@@ -72,29 +72,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: [https://www.coursera.org](https://www.datacamp.com/statement-of-accomplishment/course/7001978e09a69a08799eaf16439a51c57d11eb3f)
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-02-08'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: DataCamp
+          organization_url: [https://www.coursera.org](https://www.datacamp.com)
+          title: Intermediate Regression with statsmodels in Python
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/5de3ca8d240a4ec901010cb66be6d4253a5d6603
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-01-13'
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: Introduction to Version Control with Git
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/22082160d8529ff57e489e8a37e72cbbab349f2f
+          date_end: ''
+          date_start: '2023-07-24'
+          description: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in Python'
           url: ''
     design:
       columns: '2'
