@@ -27,8 +27,8 @@ bio: My research interests include Econometrics of Networks.
 # Interests to show in About widget
 interests:
   - Econometrics of Networks
-  - Economics of Networks
   - Causal Inference
+  - Development Economics
 
 # Education to show in About widget
 education:
@@ -77,5 +77,5 @@ email: 'gromer6@emory.edu'
 highlight_name: true
 ---
 
-I am a second year PhD student in Economics at Emory University. With the goal of doing research on the Econometrics and the Economics of Networks, I have gone through extensive training on Econometric Methods and Probability Theory, as well as Micro and Macroeconomic Theory; and am currently being trained on Measure Theory and Microeconometrics. I also have over 3 years of experience as graduate and undergraduate research and teaching assistant. After obtaining my BS degree in Economics with quantitative concentration, I had the chance of being a scholar at the AEA Summer Program. As a consequence of the human contact that all this journey has meant to me, I have learned how to promote a productive, yet enjoyable experience for my teammates and myself.
+I am a third year PhD student in Economics at Emory University. I am currently working on methodological research on causal inference with network interference and external validity, together with their applications to Development Economics. Here at Emory I have accumulated research assistant's experience on humans subjects research, including assistance for the construction of successful major grant applications, data management and quality control of incoming survey data and formal training for IRB submissions. I have also assited on the construction of a replicable package for a top journal publication. In terms of teaching experience, I have been asisstant for two honors causal inference classes at Emory. As a consequence of the human contact that all this journey has meant to me, I have learned how to promote a productive, yet enjoyable experience for my teammates and myself. 
 {style="text-align: justify;"}
